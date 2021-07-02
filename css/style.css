@@ -1,0 +1,21 @@
+.div__bg{
+    background-color: skyblue;
+    color: #313131;
+    border: 5px solid red;
+    border-radius: 15px;
+    width: 50%;
+    margin: 20px auto;
+    padding: 20px 50px 20px 50px;
+}
+.div__bg p{
+    color: rgb(51, 51, 51);
+}
+.blog__heading{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2em;
+    text-align: center;
+    font-weight: 900;
+}
+.author__name{
+    color: red;
+}
